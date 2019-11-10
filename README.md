@@ -5,8 +5,8 @@ Files include
   - Contains 2 files
     1) mlp_proj_working_file.ipynb - File where I worked on the model training and model tuning
     2) mlp_modules.ipynb - File which contains functions to run the machine learning pipeline
-      - Function 1 - data_prep()
-      - Function 2 - traffic_model(df)
+        - Function 1 - data_prep()
+        - Function 2 - traffic_model(df)
       (elaboration of functions below)
 2) README.md
   - Description of files 

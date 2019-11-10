@@ -3,8 +3,8 @@ This folder includes files for application to AI Singapore Apprenticeship Progra
 Files include
 1) mlp folder
   - Contains 2 files
-    (i) mlp_proj_working_file.ipynb - File where I worked on the model training and model tuning
-    (ii) mlp_modules.ipynb - File which contains functions to run the machine learning pipeline
+    i) mlp_proj_working_file.ipynb - File where I worked on the model training and model tuning
+    ii) mlp_modules.ipynb - File which contains functions to run the machine learning pipeline
       - Function 1 - data_prep()
       - Function 2 - traffic_model(df)
       (elaboration of functions below)

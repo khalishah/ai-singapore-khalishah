@@ -1,4 +1,4 @@
-This folder includes files for application to AI Singapore Apprenticeship Programme for Khalishah Nadhirah Bte Abu Bakar (NRIC ending 1910G)
+This folder includes files for application to AI Singapore Apprenticeship Programme for Khalishah Nadhirah Bte Abu Bakar.
 
 Files include
 1) mlp folder
